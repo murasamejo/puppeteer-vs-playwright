@@ -2,6 +2,17 @@
 - [Puppeteer](https://github.com/puppeteer/puppeteer)
 - [Playwright](https://github.com/microsoft/playwright)
 
+# Playwright は、インストール時に各種ブラウザエンジンを自動でインストールしてくれる
+- [Playwright automatically downloads browser executables during installation, see Downloaded browsers for more information.](https://github.com/microsoft/playwright/blob/master/docs/api.md#playwright-module)
+
+> Playwright automatically downloads browser executables during installation, see Downloaded browsers for more information.
+>
+> playwright.chromium
+> playwright.devices
+> playwright.errors
+> playwright.firefox
+> playwright.webkit
+
 # Note
 - コミッターを見ると分かるように、双方の開発者は共通していることが多い
   - [README にもその旨の記載がある](https://github.com/microsoft/playwright#faq)
@@ -17,6 +28,10 @@
 > Playwright also aims at being cloud-native. Rather than a single page, BrowserContext abstraction is now central to the library > operation. BrowserContexts are isolated, they can be either created locally or provided as a service.
 >
 > All the changes and improvements above would require breaking changes to the Puppeteer API, so we chose to start with a clean slate instead. Due to the similarity of the concepts and the APIs, migration between the two should be a mechanical task.
+
+# （参考）ブラウザエンジンごとの差異があるサイト
+- [PureCSS Lace](https://diana-adrianne.com/purecss-lace/)
+  - [表示するブラウザごとに違う見え方をする「コードで描かれた絵」とは？ - GIGAZINE](https://gigazine.net/news/20191106-purecss-image-looks-different-browser/)
 
 # （参考）用いることができるデバイスの一覧
 - 使い方は[公式ドキュメント](https://github.com/puppeteer/puppeteer/blob/master/docs/api.md#puppeteerdevices)の通り
