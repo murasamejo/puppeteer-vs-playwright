@@ -1,4 +1,4 @@
-deviceNames = [
+const deviceNames = [
   'Blackberry PlayBook',
   'Blackberry PlayBook landscape',
   'BlackBerry Z30',
