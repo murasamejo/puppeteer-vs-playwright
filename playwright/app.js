@@ -12,6 +12,7 @@ const playwright = require('playwright');
       path: `example-${browserType}.png`,
       fullPage: true,
     });
+
     await browser.close();
   }
 })();
