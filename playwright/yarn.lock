@@ -146,9 +146,9 @@ isarray@~1.0.0:
   integrity sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE=
 
 jpeg-js@^0.3.6:
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.3.6.tgz#c40382aac9506e7d1f2d856eb02f6c7b2a98b37c"
-  integrity sha512-MUj2XlMB8kpe+8DJUGH/3UJm4XpI8XEgZQ+CiHDeyrGoKPdW/8FJv6ku+3UiYm5Fz3CWaL+iXmD8Q4Ap6aC1Jw==
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.3.7.tgz#471a89d06011640592d314158608690172b1028d"
+  integrity sha512-9IXdWudL61npZjvLuVe/ktHiA41iE8qFyLB+4VDTblEsWBzeg8WQTlktdUK4CdncUqtUgUg0bbOmTE2bKBKaBQ==
 
 mime@^2.0.3:
   version "2.4.4"
@@ -201,10 +201,10 @@ pend@~1.2.0:
   resolved "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"
   integrity sha1-elfrVQpng/kRUzH89GY9XI4AelA=
 
-playwright-core@=0.9.21:
-  version "0.9.21"
-  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-0.9.21.tgz#c8d51ec5930e0fba0bb09e9feebe719bba2fa1d4"
-  integrity sha512-jt6zSx76Ycj8urYrWlRpevg2r6MU5qhLZGc1osvIMBtoXFbuKy+hbxb2kHjrkxaqnIIzdI1CEtZER5XphYRpqw==
+playwright-core@=0.9.24:
+  version "0.9.24"
+  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-0.9.24.tgz#b4d61e351a1e5fd3b4603eb88f58716b2432487a"
+  integrity sha512-4yxhmbk9wQGnhOsh8C6NLeQcez/uKzCgGAVwru47/1JrQV/MNyr+t4E+VBwGEcgnjzI9F33IaKsMuYDrqhBz4w==
   dependencies:
     debug "^4.1.0"
     extract-zip "^1.6.6"
@@ -219,11 +219,11 @@ playwright-core@=0.9.21:
     ws "^6.1.0"
 
 playwright@^0.9.21:
-  version "0.9.21"
-  resolved "https://registry.yarnpkg.com/playwright/-/playwright-0.9.21.tgz#34c744c56558d9976eabd168216fd9b4c32f54d5"
-  integrity sha512-iS7A6OyFpzdzEYMdUl2TSLtYUD0hxQVskHcnRsiK7EUTxjFZvFGW23LFmM9A0dQGBtF3Fqqb907vnmaVPg+s/g==
+  version "0.9.24"
+  resolved "https://registry.yarnpkg.com/playwright/-/playwright-0.9.24.tgz#6a29d7ab82e513c6386cde023af684ed4d1eca7d"
+  integrity sha512-CdSY4rcrzkNkLIBhbu2qlhMrQdVXZzdL/Ybufh+SB+OLutNBnfFiZsnOJ6vow2W0ik1MWM1fabqXNnyoQsVItg==
   dependencies:
-    playwright-core "=0.9.21"
+    playwright-core "=0.9.24"
 
 pngjs@^3.4.0:
   version "3.4.0"
@@ -241,9 +241,9 @@ progress@^2.0.3:
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
 proxy-from-env@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/proxy-from-env/-/proxy-from-env-1.0.0.tgz#33c50398f70ea7eb96d21f7b817630a55791c7ee"
-  integrity sha1-M8UDmPcOp+uW0h97gXYwpVeRx+4=
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/proxy-from-env/-/proxy-from-env-1.1.0.tgz#e102f16ca355424865755d2c9e8ea4f24d58c3e2"
+  integrity sha512-D+zkORCbA9f1tdWRK0RaCR3GPv50cMxcrz4X8k5LTSUD1Dkw47mKJEZQNunItRTkWwgtaUSo1RVFRIG9ZXiFYg==
 
 readable-stream@^2.2.2:
   version "2.3.7"
