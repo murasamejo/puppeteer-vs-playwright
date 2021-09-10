@@ -223,7 +223,7 @@ playwright-core@=0.9.24:
     uuid "^3.4.0"
     ws "^6.1.0"
 
-playwright@^0.9.21:
+playwright@0.9.24:
   version "0.9.24"
   resolved "https://registry.yarnpkg.com/playwright/-/playwright-0.9.24.tgz#6a29d7ab82e513c6386cde023af684ed4d1eca7d"
   integrity sha512-CdSY4rcrzkNkLIBhbu2qlhMrQdVXZzdL/Ybufh+SB+OLutNBnfFiZsnOJ6vow2W0ik1MWM1fabqXNnyoQsVItg==
